@@ -1,3 +1,3 @@
 # BOOKBOT
 
-repo for boot.dev bookbot project
+repo for [boot.dev](https://www.boot.dev) bookbot project
